@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vishalprabhu2018.github.io/vishalPortfolio/](https://vishalprabhu2018.github.io/vishalPortfolio/)
 
-- 💬 Ask me about **react, NodeJS**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **prabhuvishal2018@gmail.com**
 
