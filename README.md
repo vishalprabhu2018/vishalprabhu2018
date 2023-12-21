@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://vishalprabhu2018.github.io/vishalPortfolio/](https://vishalprabhu2018.github.io/vishalPortfolio/)
+- 👨‍💻  My recent work is  [https://vishalprabhu.online/](https://vishalprabhu.online)
+- 👨‍💻  My Portfolio which contains small projects [https://vishalprabhu2018.github.io/vishalPortfolio/](https://vishalprabhu2018.github.io/vishalPortfolio/)
 
-- 💬 Ask me about **JavaScript**
+
+- 💬 Ask me about **Web development**
 
 - 📫 How to reach me **prabhuvishal2018@gmail.com**
 
